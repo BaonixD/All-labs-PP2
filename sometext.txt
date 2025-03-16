@@ -1,3 +1,6 @@
 12345 56789 90987654 dfghjkl efrgf 34 34
 12345 56789 90987654 dfghjkl efrgf 34 34
+<<<<<<< HEAD:labs/sometext.txt
 12345 56789 90987654 dfghjkl efrgf 34 34
+=======
+>>>>>>> 6b0daea7c69d8f6dd74f7293727203d33daf29d6:sometext.txt
